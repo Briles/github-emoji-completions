@@ -1,0 +1,429 @@
+{
+    "scope": "text.html.markdown",
+    "completions": [
+        {
+            "trigger": "house\t emoji",
+            "contents": ":house:$0"
+        },
+        {
+            "trigger": "house_with_garden\t emoji",
+            "contents": ":house_with_garden:$0"
+        },
+        {
+            "trigger": "school\t emoji",
+            "contents": ":school:$0"
+        },
+        {
+            "trigger": "office\t emoji",
+            "contents": ":office:$0"
+        },
+        {
+            "trigger": "post_office\t emoji",
+            "contents": ":post_office:$0"
+        },
+        {
+            "trigger": "hospital\t emoji",
+            "contents": ":hospital:$0"
+        },
+        {
+            "trigger": "bank\t emoji",
+            "contents": ":bank:$0"
+        },
+        {
+            "trigger": "convenience_store\t emoji",
+            "contents": ":convenience_store:$0"
+        },
+        {
+            "trigger": "love_hotel\t emoji",
+            "contents": ":love_hotel:$0"
+        },
+        {
+            "trigger": "hotel\t emoji",
+            "contents": ":hotel:$0"
+        },
+        {
+            "trigger": "wedding\t emoji",
+            "contents": ":wedding:$0"
+        },
+        {
+            "trigger": "church\t emoji",
+            "contents": ":church:$0"
+        },
+        {
+            "trigger": "department_store\t emoji",
+            "contents": ":department_store:$0"
+        },
+        {
+            "trigger": "european_post_office\t emoji",
+            "contents": ":european_post_office:$0"
+        },
+        {
+            "trigger": "city_sunrise\t emoji",
+            "contents": ":city_sunrise:$0"
+        },
+        {
+            "trigger": "city_sunset\t emoji",
+            "contents": ":city_sunset:$0"
+        },
+        {
+            "trigger": "japanese_castle\t emoji",
+            "contents": ":japanese_castle:$0"
+        },
+        {
+            "trigger": "european_castle\t emoji",
+            "contents": ":european_castle:$0"
+        },
+        {
+            "trigger": "tent\t emoji",
+            "contents": ":tent:$0"
+        },
+        {
+            "trigger": "factory\t emoji",
+            "contents": ":factory:$0"
+        },
+        {
+            "trigger": "tokyo_tower\t emoji",
+            "contents": ":tokyo_tower:$0"
+        },
+        {
+            "trigger": "japan\t emoji",
+            "contents": ":japan:$0"
+        },
+        {
+            "trigger": "mount_fuji\t emoji",
+            "contents": ":mount_fuji:$0"
+        },
+        {
+            "trigger": "sunrise_over_mountains\t emoji",
+            "contents": ":sunrise_over_mountains:$0"
+        },
+        {
+            "trigger": "sunrise\t emoji",
+            "contents": ":sunrise:$0"
+        },
+        {
+            "trigger": "stars\t emoji",
+            "contents": ":stars:$0"
+        },
+        {
+            "trigger": "statue_of_liberty\t emoji",
+            "contents": ":statue_of_liberty:$0"
+        },
+        {
+            "trigger": "bridge_at_night\t emoji",
+            "contents": ":bridge_at_night:$0"
+        },
+        {
+            "trigger": "carousel_horse\t emoji",
+            "contents": ":carousel_horse:$0"
+        },
+        {
+            "trigger": "rainbow\t emoji",
+            "contents": ":rainbow:$0"
+        },
+        {
+            "trigger": "ferris_wheel\t emoji",
+            "contents": ":ferris_wheel:$0"
+        },
+        {
+            "trigger": "fountain\t emoji",
+            "contents": ":fountain:$0"
+        },
+        {
+            "trigger": "roller_coaster\t emoji",
+            "contents": ":roller_coaster:$0"
+        },
+        {
+            "trigger": "ship\t emoji",
+            "contents": ":ship:$0"
+        },
+        {
+            "trigger": "speedboat\t emoji",
+            "contents": ":speedboat:$0"
+        },
+        {
+            "trigger": "boat\t emoji",
+            "contents": ":boat:$0"
+        },
+        {
+            "trigger": "sailboat\t emoji",
+            "contents": ":sailboat:$0"
+        },
+        {
+            "trigger": "rowboat\t emoji",
+            "contents": ":rowboat:$0"
+        },
+        {
+            "trigger": "anchor\t emoji",
+            "contents": ":anchor:$0"
+        },
+        {
+            "trigger": "rocket\t emoji",
+            "contents": ":rocket:$0"
+        },
+        {
+            "trigger": "airplane\t emoji",
+            "contents": ":airplane:$0"
+        },
+        {
+            "trigger": "helicopter\t emoji",
+            "contents": ":helicopter:$0"
+        },
+        {
+            "trigger": "steam_locomotive\t emoji",
+            "contents": ":steam_locomotive:$0"
+        },
+        {
+            "trigger": "tram\t emoji",
+            "contents": ":tram:$0"
+        },
+        {
+            "trigger": "mountain_railway\t emoji",
+            "contents": ":mountain_railway:$0"
+        },
+        {
+            "trigger": "bike\t emoji",
+            "contents": ":bike:$0"
+        },
+        {
+            "trigger": "aerial_tramway\t emoji",
+            "contents": ":aerial_tramway:$0"
+        },
+        {
+            "trigger": "suspension_railway\t emoji",
+            "contents": ":suspension_railway:$0"
+        },
+        {
+            "trigger": "mountain_cableway\t emoji",
+            "contents": ":mountain_cableway:$0"
+        },
+        {
+            "trigger": "tractor\t emoji",
+            "contents": ":tractor:$0"
+        },
+        {
+            "trigger": "blue_car\t emoji",
+            "contents": ":blue_car:$0"
+        },
+        {
+            "trigger": "oncoming_automobile\t emoji",
+            "contents": ":oncoming_automobile:$0"
+        },
+        {
+            "trigger": "car\t emoji",
+            "contents": ":car:$0"
+        },
+        {
+            "trigger": "red_car\t emoji",
+            "contents": ":red_car:$0"
+        },
+        {
+            "trigger": "taxi\t emoji",
+            "contents": ":taxi:$0"
+        },
+        {
+            "trigger": "oncoming_taxi\t emoji",
+            "contents": ":oncoming_taxi:$0"
+        },
+        {
+            "trigger": "articulated_lorry\t emoji",
+            "contents": ":articulated_lorry:$0"
+        },
+        {
+            "trigger": "bus\t emoji",
+            "contents": ":bus:$0"
+        },
+        {
+            "trigger": "oncoming_bus\t emoji",
+            "contents": ":oncoming_bus:$0"
+        },
+        {
+            "trigger": "rotating_light\t emoji",
+            "contents": ":rotating_light:$0"
+        },
+        {
+            "trigger": "police_car\t emoji",
+            "contents": ":police_car:$0"
+        },
+        {
+            "trigger": "oncoming_police_car\t emoji",
+            "contents": ":oncoming_police_car:$0"
+        },
+        {
+            "trigger": "fire_engine\t emoji",
+            "contents": ":fire_engine:$0"
+        },
+        {
+            "trigger": "ambulance\t emoji",
+            "contents": ":ambulance:$0"
+        },
+        {
+            "trigger": "minibus\t emoji",
+            "contents": ":minibus:$0"
+        },
+        {
+            "trigger": "truck\t emoji",
+            "contents": ":truck:$0"
+        },
+        {
+            "trigger": "train\t emoji",
+            "contents": ":train:$0"
+        },
+        {
+            "trigger": "station\t emoji",
+            "contents": ":station:$0"
+        },
+        {
+            "trigger": "train2\t emoji",
+            "contents": ":train2:$0"
+        },
+        {
+            "trigger": "bullettrain_front\t emoji",
+            "contents": ":bullettrain_front:$0"
+        },
+        {
+            "trigger": "bullettrain_side\t emoji",
+            "contents": ":bullettrain_side:$0"
+        },
+        {
+            "trigger": "light_rail\t emoji",
+            "contents": ":light_rail:$0"
+        },
+        {
+            "trigger": "monorail\t emoji",
+            "contents": ":monorail:$0"
+        },
+        {
+            "trigger": "railway_car\t emoji",
+            "contents": ":railway_car:$0"
+        },
+        {
+            "trigger": "trolleybus\t emoji",
+            "contents": ":trolleybus:$0"
+        },
+        {
+            "trigger": "ticket\t emoji",
+            "contents": ":ticket:$0"
+        },
+        {
+            "trigger": "fuelpump\t emoji",
+            "contents": ":fuelpump:$0"
+        },
+        {
+            "trigger": "vertical_traffic_light\t emoji",
+            "contents": ":vertical_traffic_light:$0"
+        },
+        {
+            "trigger": "traffic_light\t emoji",
+            "contents": ":traffic_light:$0"
+        },
+        {
+            "trigger": "warning\t emoji",
+            "contents": ":warning:$0"
+        },
+        {
+            "trigger": "construction\t emoji",
+            "contents": ":construction:$0"
+        },
+        {
+            "trigger": "beginner\t emoji",
+            "contents": ":beginner:$0"
+        },
+        {
+            "trigger": "atm\t emoji",
+            "contents": ":atm:$0"
+        },
+        {
+            "trigger": "slot_machine\t emoji",
+            "contents": ":slot_machine:$0"
+        },
+        {
+            "trigger": "busstop\t emoji",
+            "contents": ":busstop:$0"
+        },
+        {
+            "trigger": "barber\t emoji",
+            "contents": ":barber:$0"
+        },
+        {
+            "trigger": "hotsprings\t emoji",
+            "contents": ":hotsprings:$0"
+        },
+        {
+            "trigger": "checkered_flag\t emoji",
+            "contents": ":checkered_flag:$0"
+        },
+        {
+            "trigger": "crossed_flags\t emoji",
+            "contents": ":crossed_flags:$0"
+        },
+        {
+            "trigger": "izakaya_lantern\t emoji",
+            "contents": ":izakaya_lantern:$0"
+        },
+        {
+            "trigger": "moyai\t emoji",
+            "contents": ":moyai:$0"
+        },
+        {
+            "trigger": "circus_tent\t emoji",
+            "contents": ":circus_tent:$0"
+        },
+        {
+            "trigger": "performing_arts\t emoji",
+            "contents": ":performing_arts:$0"
+        },
+        {
+            "trigger": "round_pushpin\t emoji",
+            "contents": ":round_pushpin:$0"
+        },
+        {
+            "trigger": "triangular_flag_on_post\t emoji",
+            "contents": ":triangular_flag_on_post:$0"
+        },
+        {
+            "trigger": "jp\t emoji",
+            "contents": ":jp:$0"
+        },
+        {
+            "trigger": "kr\t emoji",
+            "contents": ":kr:$0"
+        },
+        {
+            "trigger": "cn\t emoji",
+            "contents": ":cn:$0"
+        },
+        {
+            "trigger": "us\t emoji",
+            "contents": ":us:$0"
+        },
+        {
+            "trigger": "fr\t emoji",
+            "contents": ":fr:$0"
+        },
+        {
+            "trigger": "es\t emoji",
+            "contents": ":es:$0"
+        },
+        {
+            "trigger": "it\t emoji",
+            "contents": ":it:$0"
+        },
+        {
+            "trigger": "ru\t emoji",
+            "contents": ":ru:$0"
+        },
+        {
+            "trigger": "gb\t emoji",
+            "contents": ":gb:$0"
+        },
+        {
+            "trigger": "uk\t emoji",
+            "contents": ":uk:$0"
+        },
+        {
+            "trigger": "de\t emoji",
+            "contents": ":de:$0"
+        }
+    ]
+}

@@ -1,0 +1,813 @@
+{
+    "scope": "text.html.markdown",
+    "completions": [
+        {
+            "trigger": "one\t emoji",
+            "contents": ":one:$0"
+        },
+        {
+            "trigger": "two\t emoji",
+            "contents": ":two:$0"
+        },
+        {
+            "trigger": "three\t emoji",
+            "contents": ":three:$0"
+        },
+        {
+            "trigger": "four\t emoji",
+            "contents": ":four:$0"
+        },
+        {
+            "trigger": "five\t emoji",
+            "contents": ":five:$0"
+        },
+        {
+            "trigger": "six\t emoji",
+            "contents": ":six:$0"
+        },
+        {
+            "trigger": "seven\t emoji",
+            "contents": ":seven:$0"
+        },
+        {
+            "trigger": "eight\t emoji",
+            "contents": ":eight:$0"
+        },
+        {
+            "trigger": "nine\t emoji",
+            "contents": ":nine:$0"
+        },
+        {
+            "trigger": "keycap_ten\t emoji",
+            "contents": ":keycap_ten:$0"
+        },
+        {
+            "trigger": "1234\t emoji",
+            "contents": ":1234:$0"
+        },
+        {
+            "trigger": "zero\t emoji",
+            "contents": ":zero:$0"
+        },
+        {
+            "trigger": "hash\t emoji",
+            "contents": ":hash:$0"
+        },
+        {
+            "trigger": "symbols\t emoji",
+            "contents": ":symbols:$0"
+        },
+        {
+            "trigger": "arrow_backward\t emoji",
+            "contents": ":arrow_backward:$0"
+        },
+        {
+            "trigger": "arrow_down\t emoji",
+            "contents": ":arrow_down:$0"
+        },
+        {
+            "trigger": "arrow_forward\t emoji",
+            "contents": ":arrow_forward:$0"
+        },
+        {
+            "trigger": "arrow_left\t emoji",
+            "contents": ":arrow_left:$0"
+        },
+        {
+            "trigger": "capital_abcd\t emoji",
+            "contents": ":capital_abcd:$0"
+        },
+        {
+            "trigger": "abcd\t emoji",
+            "contents": ":abcd:$0"
+        },
+        {
+            "trigger": "abc\t emoji",
+            "contents": ":abc:$0"
+        },
+        {
+            "trigger": "arrow_lower_left\t emoji",
+            "contents": ":arrow_lower_left:$0"
+        },
+        {
+            "trigger": "arrow_lower_right\t emoji",
+            "contents": ":arrow_lower_right:$0"
+        },
+        {
+            "trigger": "arrow_right\t emoji",
+            "contents": ":arrow_right:$0"
+        },
+        {
+            "trigger": "arrow_up\t emoji",
+            "contents": ":arrow_up:$0"
+        },
+        {
+            "trigger": "arrow_upper_left\t emoji",
+            "contents": ":arrow_upper_left:$0"
+        },
+        {
+            "trigger": "arrow_upper_right\t emoji",
+            "contents": ":arrow_upper_right:$0"
+        },
+        {
+            "trigger": "arrow_double_down\t emoji",
+            "contents": ":arrow_double_down:$0"
+        },
+        {
+            "trigger": "arrow_double_up\t emoji",
+            "contents": ":arrow_double_up:$0"
+        },
+        {
+            "trigger": "arrow_down_small\t emoji",
+            "contents": ":arrow_down_small:$0"
+        },
+        {
+            "trigger": "arrow_heading_down\t emoji",
+            "contents": ":arrow_heading_down:$0"
+        },
+        {
+            "trigger": "arrow_heading_up\t emoji",
+            "contents": ":arrow_heading_up:$0"
+        },
+        {
+            "trigger": "leftwards_arrow_with_hook\t emoji",
+            "contents": ":leftwards_arrow_with_hook:$0"
+        },
+        {
+            "trigger": "arrow_right_hook\t emoji",
+            "contents": ":arrow_right_hook:$0"
+        },
+        {
+            "trigger": "left_right_arrow\t emoji",
+            "contents": ":left_right_arrow:$0"
+        },
+        {
+            "trigger": "arrow_up_down\t emoji",
+            "contents": ":arrow_up_down:$0"
+        },
+        {
+            "trigger": "arrow_up_small\t emoji",
+            "contents": ":arrow_up_small:$0"
+        },
+        {
+            "trigger": "arrows_clockwise\t emoji",
+            "contents": ":arrows_clockwise:$0"
+        },
+        {
+            "trigger": "arrows_counterclockwise\t emoji",
+            "contents": ":arrows_counterclockwise:$0"
+        },
+        {
+            "trigger": "rewind\t emoji",
+            "contents": ":rewind:$0"
+        },
+        {
+            "trigger": "fast_forward\t emoji",
+            "contents": ":fast_forward:$0"
+        },
+        {
+            "trigger": "information_source\t emoji",
+            "contents": ":information_source:$0"
+        },
+        {
+            "trigger": "ok\t emoji",
+            "contents": ":ok:$0"
+        },
+        {
+            "trigger": "twisted_rightwards_arrows\t emoji",
+            "contents": ":twisted_rightwards_arrows:$0"
+        },
+        {
+            "trigger": "repeat\t emoji",
+            "contents": ":repeat:$0"
+        },
+        {
+            "trigger": "repeat_one\t emoji",
+            "contents": ":repeat_one:$0"
+        },
+        {
+            "trigger": "new\t emoji",
+            "contents": ":new:$0"
+        },
+        {
+            "trigger": "top\t emoji",
+            "contents": ":top:$0"
+        },
+        {
+            "trigger": "up\t emoji",
+            "contents": ":up:$0"
+        },
+        {
+            "trigger": "cool\t emoji",
+            "contents": ":cool:$0"
+        },
+        {
+            "trigger": "free\t emoji",
+            "contents": ":free:$0"
+        },
+        {
+            "trigger": "ng\t emoji",
+            "contents": ":ng:$0"
+        },
+        {
+            "trigger": "cinema\t emoji",
+            "contents": ":cinema:$0"
+        },
+        {
+            "trigger": "koko\t emoji",
+            "contents": ":koko:$0"
+        },
+        {
+            "trigger": "signal_strength\t emoji",
+            "contents": ":signal_strength:$0"
+        },
+        {
+            "trigger": "u5272\t emoji",
+            "contents": ":u5272:$0"
+        },
+        {
+            "trigger": "u5408\t emoji",
+            "contents": ":u5408:$0"
+        },
+        {
+            "trigger": "u55b6\t emoji",
+            "contents": ":u55b6:$0"
+        },
+        {
+            "trigger": "u6307\t emoji",
+            "contents": ":u6307:$0"
+        },
+        {
+            "trigger": "u6708\t emoji",
+            "contents": ":u6708:$0"
+        },
+        {
+            "trigger": "u6709\t emoji",
+            "contents": ":u6709:$0"
+        },
+        {
+            "trigger": "u6e80\t emoji",
+            "contents": ":u6e80:$0"
+        },
+        {
+            "trigger": "u7121\t emoji",
+            "contents": ":u7121:$0"
+        },
+        {
+            "trigger": "u7533\t emoji",
+            "contents": ":u7533:$0"
+        },
+        {
+            "trigger": "u7a7a\t emoji",
+            "contents": ":u7a7a:$0"
+        },
+        {
+            "trigger": "u7981\t emoji",
+            "contents": ":u7981:$0"
+        },
+        {
+            "trigger": "sa\t emoji",
+            "contents": ":sa:$0"
+        },
+        {
+            "trigger": "restroom\t emoji",
+            "contents": ":restroom:$0"
+        },
+        {
+            "trigger": "mens\t emoji",
+            "contents": ":mens:$0"
+        },
+        {
+            "trigger": "womens\t emoji",
+            "contents": ":womens:$0"
+        },
+        {
+            "trigger": "baby_symbol\t emoji",
+            "contents": ":baby_symbol:$0"
+        },
+        {
+            "trigger": "no_smoking\t emoji",
+            "contents": ":no_smoking:$0"
+        },
+        {
+            "trigger": "parking\t emoji",
+            "contents": ":parking:$0"
+        },
+        {
+            "trigger": "wheelchair\t emoji",
+            "contents": ":wheelchair:$0"
+        },
+        {
+            "trigger": "metro\t emoji",
+            "contents": ":metro:$0"
+        },
+        {
+            "trigger": "baggage_claim\t emoji",
+            "contents": ":baggage_claim:$0"
+        },
+        {
+            "trigger": "accept\t emoji",
+            "contents": ":accept:$0"
+        },
+        {
+            "trigger": "wc\t emoji",
+            "contents": ":wc:$0"
+        },
+        {
+            "trigger": "potable_water\t emoji",
+            "contents": ":potable_water:$0"
+        },
+        {
+            "trigger": "put_litter_in_its_place\t emoji",
+            "contents": ":put_litter_in_its_place:$0"
+        },
+        {
+            "trigger": "secret\t emoji",
+            "contents": ":secret:$0"
+        },
+        {
+            "trigger": "congratulations\t emoji",
+            "contents": ":congratulations:$0"
+        },
+        {
+            "trigger": "m\t emoji",
+            "contents": ":m:$0"
+        },
+        {
+            "trigger": "passport_control\t emoji",
+            "contents": ":passport_control:$0"
+        },
+        {
+            "trigger": "left_luggage\t emoji",
+            "contents": ":left_luggage:$0"
+        },
+        {
+            "trigger": "customs\t emoji",
+            "contents": ":customs:$0"
+        },
+        {
+            "trigger": "ideograph_advantage\t emoji",
+            "contents": ":ideograph_advantage:$0"
+        },
+        {
+            "trigger": "cl\t emoji",
+            "contents": ":cl:$0"
+        },
+        {
+            "trigger": "sos\t emoji",
+            "contents": ":sos:$0"
+        },
+        {
+            "trigger": "id\t emoji",
+            "contents": ":id:$0"
+        },
+        {
+            "trigger": "no_entry_sign\t emoji",
+            "contents": ":no_entry_sign:$0"
+        },
+        {
+            "trigger": "underage\t emoji",
+            "contents": ":underage:$0"
+        },
+        {
+            "trigger": "no_mobile_phones\t emoji",
+            "contents": ":no_mobile_phones:$0"
+        },
+        {
+            "trigger": "do_not_litter\t emoji",
+            "contents": ":do_not_litter:$0"
+        },
+        {
+            "trigger": "non-potable_water\t emoji",
+            "contents": ":non-potable_water:$0"
+        },
+        {
+            "trigger": "no_bicycles\t emoji",
+            "contents": ":no_bicycles:$0"
+        },
+        {
+            "trigger": "no_pedestrians\t emoji",
+            "contents": ":no_pedestrians:$0"
+        },
+        {
+            "trigger": "children_crossing\t emoji",
+            "contents": ":children_crossing:$0"
+        },
+        {
+            "trigger": "no_entry\t emoji",
+            "contents": ":no_entry:$0"
+        },
+        {
+            "trigger": "eight_spoked_asterisk\t emoji",
+            "contents": ":eight_spoked_asterisk:$0"
+        },
+        {
+            "trigger": "sparkle\t emoji",
+            "contents": ":sparkle:$0"
+        },
+        {
+            "trigger": "eight_pointed_black_star\t emoji",
+            "contents": ":eight_pointed_black_star:$0"
+        },
+        {
+            "trigger": "heart_decoration\t emoji",
+            "contents": ":heart_decoration:$0"
+        },
+        {
+            "trigger": "vs\t emoji",
+            "contents": ":vs:$0"
+        },
+        {
+            "trigger": "vibration_mode\t emoji",
+            "contents": ":vibration_mode:$0"
+        },
+        {
+            "trigger": "mobile_phone_off\t emoji",
+            "contents": ":mobile_phone_off:$0"
+        },
+        {
+            "trigger": "chart\t emoji",
+            "contents": ":chart:$0"
+        },
+        {
+            "trigger": "currency_exchange\t emoji",
+            "contents": ":currency_exchange:$0"
+        },
+        {
+            "trigger": "aries\t emoji",
+            "contents": ":aries:$0"
+        },
+        {
+            "trigger": "taurus\t emoji",
+            "contents": ":taurus:$0"
+        },
+        {
+            "trigger": "gemini\t emoji",
+            "contents": ":gemini:$0"
+        },
+        {
+            "trigger": "cancer\t emoji",
+            "contents": ":cancer:$0"
+        },
+        {
+            "trigger": "leo\t emoji",
+            "contents": ":leo:$0"
+        },
+        {
+            "trigger": "virgo\t emoji",
+            "contents": ":virgo:$0"
+        },
+        {
+            "trigger": "libra\t emoji",
+            "contents": ":libra:$0"
+        },
+        {
+            "trigger": "scorpius\t emoji",
+            "contents": ":scorpius:$0"
+        },
+        {
+            "trigger": "sagittarius\t emoji",
+            "contents": ":sagittarius:$0"
+        },
+        {
+            "trigger": "capricorn\t emoji",
+            "contents": ":capricorn:$0"
+        },
+        {
+            "trigger": "aquarius\t emoji",
+            "contents": ":aquarius:$0"
+        },
+        {
+            "trigger": "pisces\t emoji",
+            "contents": ":pisces:$0"
+        },
+        {
+            "trigger": "ophiuchus\t emoji",
+            "contents": ":ophiuchus:$0"
+        },
+        {
+            "trigger": "six_pointed_star\t emoji",
+            "contents": ":six_pointed_star:$0"
+        },
+        {
+            "trigger": "negative_squared_cross_mark\t emoji",
+            "contents": ":negative_squared_cross_mark:$0"
+        },
+        {
+            "trigger": "a\t emoji",
+            "contents": ":a:$0"
+        },
+        {
+            "trigger": "b\t emoji",
+            "contents": ":b:$0"
+        },
+        {
+            "trigger": "ab\t emoji",
+            "contents": ":ab:$0"
+        },
+        {
+            "trigger": "o2\t emoji",
+            "contents": ":o2:$0"
+        },
+        {
+            "trigger": "diamond_shape_with_a_dot_inside\t emoji",
+            "contents": ":diamond_shape_with_a_dot_inside:$0"
+        },
+        {
+            "trigger": "recycle\t emoji",
+            "contents": ":recycle:$0"
+        },
+        {
+            "trigger": "end\t emoji",
+            "contents": ":end:$0"
+        },
+        {
+            "trigger": "back\t emoji",
+            "contents": ":back:$0"
+        },
+        {
+            "trigger": "on\t emoji",
+            "contents": ":on:$0"
+        },
+        {
+            "trigger": "soon\t emoji",
+            "contents": ":soon:$0"
+        },
+        {
+            "trigger": "clock1\t emoji",
+            "contents": ":clock1:$0"
+        },
+        {
+            "trigger": "clock130\t emoji",
+            "contents": ":clock130:$0"
+        },
+        {
+            "trigger": "clock10\t emoji",
+            "contents": ":clock10:$0"
+        },
+        {
+            "trigger": "clock1030\t emoji",
+            "contents": ":clock1030:$0"
+        },
+        {
+            "trigger": "clock11\t emoji",
+            "contents": ":clock11:$0"
+        },
+        {
+            "trigger": "clock1130\t emoji",
+            "contents": ":clock1130:$0"
+        },
+        {
+            "trigger": "clock12\t emoji",
+            "contents": ":clock12:$0"
+        },
+        {
+            "trigger": "clock1230\t emoji",
+            "contents": ":clock1230:$0"
+        },
+        {
+            "trigger": "clock2\t emoji",
+            "contents": ":clock2:$0"
+        },
+        {
+            "trigger": "clock230\t emoji",
+            "contents": ":clock230:$0"
+        },
+        {
+            "trigger": "clock3\t emoji",
+            "contents": ":clock3:$0"
+        },
+        {
+            "trigger": "clock330\t emoji",
+            "contents": ":clock330:$0"
+        },
+        {
+            "trigger": "clock4\t emoji",
+            "contents": ":clock4:$0"
+        },
+        {
+            "trigger": "clock430\t emoji",
+            "contents": ":clock430:$0"
+        },
+        {
+            "trigger": "clock5\t emoji",
+            "contents": ":clock5:$0"
+        },
+        {
+            "trigger": "clock530\t emoji",
+            "contents": ":clock530:$0"
+        },
+        {
+            "trigger": "clock6\t emoji",
+            "contents": ":clock6:$0"
+        },
+        {
+            "trigger": "clock630\t emoji",
+            "contents": ":clock630:$0"
+        },
+        {
+            "trigger": "clock7\t emoji",
+            "contents": ":clock7:$0"
+        },
+        {
+            "trigger": "clock730\t emoji",
+            "contents": ":clock730:$0"
+        },
+        {
+            "trigger": "clock8\t emoji",
+            "contents": ":clock8:$0"
+        },
+        {
+            "trigger": "clock830\t emoji",
+            "contents": ":clock830:$0"
+        },
+        {
+            "trigger": "clock9\t emoji",
+            "contents": ":clock9:$0"
+        },
+        {
+            "trigger": "clock930\t emoji",
+            "contents": ":clock930:$0"
+        },
+        {
+            "trigger": "heavy_dollar_sign\t emoji",
+            "contents": ":heavy_dollar_sign:$0"
+        },
+        {
+            "trigger": "copyright\t emoji",
+            "contents": ":copyright:$0"
+        },
+        {
+            "trigger": "registered\t emoji",
+            "contents": ":registered:$0"
+        },
+        {
+            "trigger": "tm\t emoji",
+            "contents": ":tm:$0"
+        },
+        {
+            "trigger": "x\t emoji",
+            "contents": ":x:$0"
+        },
+        {
+            "trigger": "heavy_exclamation_mark\t emoji",
+            "contents": ":heavy_exclamation_mark:$0"
+        },
+        {
+            "trigger": "bangbang\t emoji",
+            "contents": ":bangbang:$0"
+        },
+        {
+            "trigger": "interrobang\t emoji",
+            "contents": ":interrobang:$0"
+        },
+        {
+            "trigger": "o\t emoji",
+            "contents": ":o:$0"
+        },
+        {
+            "trigger": "heavy_multiplication_x\t emoji",
+            "contents": ":heavy_multiplication_x:$0"
+        },
+        {
+            "trigger": "heavy_plus_sign\t emoji",
+            "contents": ":heavy_plus_sign:$0"
+        },
+        {
+            "trigger": "heavy_minus_sign\t emoji",
+            "contents": ":heavy_minus_sign:$0"
+        },
+        {
+            "trigger": "heavy_division_sign\t emoji",
+            "contents": ":heavy_division_sign:$0"
+        },
+        {
+            "trigger": "white_flower\t emoji",
+            "contents": ":white_flower:$0"
+        },
+        {
+            "trigger": "100\t emoji",
+            "contents": ":100:$0"
+        },
+        {
+            "trigger": "heavy_check_mark\t emoji",
+            "contents": ":heavy_check_mark:$0"
+        },
+        {
+            "trigger": "ballot_box_with_check\t emoji",
+            "contents": ":ballot_box_with_check:$0"
+        },
+        {
+            "trigger": "radio_button\t emoji",
+            "contents": ":radio_button:$0"
+        },
+        {
+            "trigger": "link\t emoji",
+            "contents": ":link:$0"
+        },
+        {
+            "trigger": "curly_loop\t emoji",
+            "contents": ":curly_loop:$0"
+        },
+        {
+            "trigger": "wavy_dash\t emoji",
+            "contents": ":wavy_dash:$0"
+        },
+        {
+            "trigger": "part_alternation_mark\t emoji",
+            "contents": ":part_alternation_mark:$0"
+        },
+        {
+            "trigger": "trident\t emoji",
+            "contents": ":trident:$0"
+        },
+        {
+            "trigger": "black_small_square\t emoji",
+            "contents": ":black_small_square:$0"
+        },
+        {
+            "trigger": "white_small_square\t emoji",
+            "contents": ":white_small_square:$0"
+        },
+        {
+            "trigger": "black_medium_small_square\t emoji",
+            "contents": ":black_medium_small_square:$0"
+        },
+        {
+            "trigger": "white_medium_small_square\t emoji",
+            "contents": ":white_medium_small_square:$0"
+        },
+        {
+            "trigger": "black_medium_square\t emoji",
+            "contents": ":black_medium_square:$0"
+        },
+        {
+            "trigger": "white_medium_square\t emoji",
+            "contents": ":white_medium_square:$0"
+        },
+        {
+            "trigger": "black_large_square\t emoji",
+            "contents": ":black_large_square:$0"
+        },
+        {
+            "trigger": "white_large_square\t emoji",
+            "contents": ":white_large_square:$0"
+        },
+        {
+            "trigger": "white_check_mark\t emoji",
+            "contents": ":white_check_mark:$0"
+        },
+        {
+            "trigger": "black_square_button\t emoji",
+            "contents": ":black_square_button:$0"
+        },
+        {
+            "trigger": "white_square_button\t emoji",
+            "contents": ":white_square_button:$0"
+        },
+        {
+            "trigger": "black_circle\t emoji",
+            "contents": ":black_circle:$0"
+        },
+        {
+            "trigger": "white_circle\t emoji",
+            "contents": ":white_circle:$0"
+        },
+        {
+            "trigger": "red_circle\t emoji",
+            "contents": ":red_circle:$0"
+        },
+        {
+            "trigger": "large_blue_circle\t emoji",
+            "contents": ":large_blue_circle:$0"
+        },
+        {
+            "trigger": "large_blue_diamond\t emoji",
+            "contents": ":large_blue_diamond:$0"
+        },
+        {
+            "trigger": "large_orange_diamond\t emoji",
+            "contents": ":large_orange_diamond:$0"
+        },
+        {
+            "trigger": "small_blue_diamond\t emoji",
+            "contents": ":small_blue_diamond:$0"
+        },
+        {
+            "trigger": "small_orange_diamond\t emoji",
+            "contents": ":small_orange_diamond:$0"
+        },
+        {
+            "trigger": "small_red_triangle\t emoji",
+            "contents": ":small_red_triangle:$0"
+        },
+        {
+            "trigger": "small_red_triangle_down\t emoji",
+            "contents": ":small_red_triangle_down:$0"
+        },
+        {
+            "trigger": "shipit\t emoji",
+            "contents": ":shipit:$0"
+        }
+    ]
+}

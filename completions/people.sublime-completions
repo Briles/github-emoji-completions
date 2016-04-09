@@ -1,0 +1,777 @@
+{
+    "scope": "text.html.markdown",
+    "completions": [
+        {
+            "trigger": "bowtie\t emoji",
+            "contents": ":bowtie:$0"
+        },
+        {
+            "trigger": "smile\t emoji",
+            "contents": ":smile:$0"
+        },
+        {
+            "trigger": "laughing\t emoji",
+            "contents": ":laughing:$0"
+        },
+        {
+            "trigger": "blush\t emoji",
+            "contents": ":blush:$0"
+        },
+        {
+            "trigger": "smiley\t emoji",
+            "contents": ":smiley:$0"
+        },
+        {
+            "trigger": "relaxed\t emoji",
+            "contents": ":relaxed:$0"
+        },
+        {
+            "trigger": "smirk\t emoji",
+            "contents": ":smirk:$0"
+        },
+        {
+            "trigger": "heart_eyes\t emoji",
+            "contents": ":heart_eyes:$0"
+        },
+        {
+            "trigger": "kissing_heart\t emoji",
+            "contents": ":kissing_heart:$0"
+        },
+        {
+            "trigger": "kissing_closed_eyes\t emoji",
+            "contents": ":kissing_closed_eyes:$0"
+        },
+        {
+            "trigger": "flushed\t emoji",
+            "contents": ":flushed:$0"
+        },
+        {
+            "trigger": "relieved\t emoji",
+            "contents": ":relieved:$0"
+        },
+        {
+            "trigger": "satisfied\t emoji",
+            "contents": ":satisfied:$0"
+        },
+        {
+            "trigger": "grin\t emoji",
+            "contents": ":grin:$0"
+        },
+        {
+            "trigger": "wink\t emoji",
+            "contents": ":wink:$0"
+        },
+        {
+            "trigger": "stuck_out_tongue_winking_eye\t emoji",
+            "contents": ":stuck_out_tongue_winking_eye:$0"
+        },
+        {
+            "trigger": "stuck_out_tongue_closed_eyes\t emoji",
+            "contents": ":stuck_out_tongue_closed_eyes:$0"
+        },
+        {
+            "trigger": "grinning\t emoji",
+            "contents": ":grinning:$0"
+        },
+        {
+            "trigger": "kissing\t emoji",
+            "contents": ":kissing:$0"
+        },
+        {
+            "trigger": "kissing_smiling_eyes\t emoji",
+            "contents": ":kissing_smiling_eyes:$0"
+        },
+        {
+            "trigger": "stuck_out_tongue\t emoji",
+            "contents": ":stuck_out_tongue:$0"
+        },
+        {
+            "trigger": "sleeping\t emoji",
+            "contents": ":sleeping:$0"
+        },
+        {
+            "trigger": "worried\t emoji",
+            "contents": ":worried:$0"
+        },
+        {
+            "trigger": "frowning\t emoji",
+            "contents": ":frowning:$0"
+        },
+        {
+            "trigger": "anguished\t emoji",
+            "contents": ":anguished:$0"
+        },
+        {
+            "trigger": "open_mouth\t emoji",
+            "contents": ":open_mouth:$0"
+        },
+        {
+            "trigger": "grimacing\t emoji",
+            "contents": ":grimacing:$0"
+        },
+        {
+            "trigger": "confused\t emoji",
+            "contents": ":confused:$0"
+        },
+        {
+            "trigger": "hushed\t emoji",
+            "contents": ":hushed:$0"
+        },
+        {
+            "trigger": "expressionless\t emoji",
+            "contents": ":expressionless:$0"
+        },
+        {
+            "trigger": "unamused\t emoji",
+            "contents": ":unamused:$0"
+        },
+        {
+            "trigger": "sweat_smile\t emoji",
+            "contents": ":sweat_smile:$0"
+        },
+        {
+            "trigger": "sweat\t emoji",
+            "contents": ":sweat:$0"
+        },
+        {
+            "trigger": "disappointed_relieved\t emoji",
+            "contents": ":disappointed_relieved:$0"
+        },
+        {
+            "trigger": "weary\t emoji",
+            "contents": ":weary:$0"
+        },
+        {
+            "trigger": "pensive\t emoji",
+            "contents": ":pensive:$0"
+        },
+        {
+            "trigger": "disappointed\t emoji",
+            "contents": ":disappointed:$0"
+        },
+        {
+            "trigger": "confounded\t emoji",
+            "contents": ":confounded:$0"
+        },
+        {
+            "trigger": "fearful\t emoji",
+            "contents": ":fearful:$0"
+        },
+        {
+            "trigger": "cold_sweat\t emoji",
+            "contents": ":cold_sweat:$0"
+        },
+        {
+            "trigger": "persevere\t emoji",
+            "contents": ":persevere:$0"
+        },
+        {
+            "trigger": "cry\t emoji",
+            "contents": ":cry:$0"
+        },
+        {
+            "trigger": "sob\t emoji",
+            "contents": ":sob:$0"
+        },
+        {
+            "trigger": "joy\t emoji",
+            "contents": ":joy:$0"
+        },
+        {
+            "trigger": "astonished\t emoji",
+            "contents": ":astonished:$0"
+        },
+        {
+            "trigger": "scream\t emoji",
+            "contents": ":scream:$0"
+        },
+        {
+            "trigger": "neckbeard\t emoji",
+            "contents": ":neckbeard:$0"
+        },
+        {
+            "trigger": "tired_face\t emoji",
+            "contents": ":tired_face:$0"
+        },
+        {
+            "trigger": "angry\t emoji",
+            "contents": ":angry:$0"
+        },
+        {
+            "trigger": "rage\t emoji",
+            "contents": ":rage:$0"
+        },
+        {
+            "trigger": "triumph\t emoji",
+            "contents": ":triumph:$0"
+        },
+        {
+            "trigger": "sleepy\t emoji",
+            "contents": ":sleepy:$0"
+        },
+        {
+            "trigger": "yum\t emoji",
+            "contents": ":yum:$0"
+        },
+        {
+            "trigger": "mask\t emoji",
+            "contents": ":mask:$0"
+        },
+        {
+            "trigger": "sunglasses\t emoji",
+            "contents": ":sunglasses:$0"
+        },
+        {
+            "trigger": "dizzy_face\t emoji",
+            "contents": ":dizzy_face:$0"
+        },
+        {
+            "trigger": "imp\t emoji",
+            "contents": ":imp:$0"
+        },
+        {
+            "trigger": "smiling_imp\t emoji",
+            "contents": ":smiling_imp:$0"
+        },
+        {
+            "trigger": "neutral_face\t emoji",
+            "contents": ":neutral_face:$0"
+        },
+        {
+            "trigger": "no_mouth\t emoji",
+            "contents": ":no_mouth:$0"
+        },
+        {
+            "trigger": "innocent\t emoji",
+            "contents": ":innocent:$0"
+        },
+        {
+            "trigger": "alien\t emoji",
+            "contents": ":alien:$0"
+        },
+        {
+            "trigger": "yellow_heart\t emoji",
+            "contents": ":yellow_heart:$0"
+        },
+        {
+            "trigger": "blue_heart\t emoji",
+            "contents": ":blue_heart:$0"
+        },
+        {
+            "trigger": "purple_heart\t emoji",
+            "contents": ":purple_heart:$0"
+        },
+        {
+            "trigger": "heart\t emoji",
+            "contents": ":heart:$0"
+        },
+        {
+            "trigger": "green_heart\t emoji",
+            "contents": ":green_heart:$0"
+        },
+        {
+            "trigger": "broken_heart\t emoji",
+            "contents": ":broken_heart:$0"
+        },
+        {
+            "trigger": "heartbeat\t emoji",
+            "contents": ":heartbeat:$0"
+        },
+        {
+            "trigger": "heartpulse\t emoji",
+            "contents": ":heartpulse:$0"
+        },
+        {
+            "trigger": "two_hearts\t emoji",
+            "contents": ":two_hearts:$0"
+        },
+        {
+            "trigger": "revolving_hearts\t emoji",
+            "contents": ":revolving_hearts:$0"
+        },
+        {
+            "trigger": "cupid\t emoji",
+            "contents": ":cupid:$0"
+        },
+        {
+            "trigger": "sparkling_heart\t emoji",
+            "contents": ":sparkling_heart:$0"
+        },
+        {
+            "trigger": "sparkles\t emoji",
+            "contents": ":sparkles:$0"
+        },
+        {
+            "trigger": "star\t emoji",
+            "contents": ":star:$0"
+        },
+        {
+            "trigger": "star2\t emoji",
+            "contents": ":star2:$0"
+        },
+        {
+            "trigger": "dizzy\t emoji",
+            "contents": ":dizzy:$0"
+        },
+        {
+            "trigger": "boom\t emoji",
+            "contents": ":boom:$0"
+        },
+        {
+            "trigger": "collision\t emoji",
+            "contents": ":collision:$0"
+        },
+        {
+            "trigger": "anger\t emoji",
+            "contents": ":anger:$0"
+        },
+        {
+            "trigger": "exclamation\t emoji",
+            "contents": ":exclamation:$0"
+        },
+        {
+            "trigger": "question\t emoji",
+            "contents": ":question:$0"
+        },
+        {
+            "trigger": "grey_exclamation\t emoji",
+            "contents": ":grey_exclamation:$0"
+        },
+        {
+            "trigger": "grey_question\t emoji",
+            "contents": ":grey_question:$0"
+        },
+        {
+            "trigger": "zzz\t emoji",
+            "contents": ":zzz:$0"
+        },
+        {
+            "trigger": "dash\t emoji",
+            "contents": ":dash:$0"
+        },
+        {
+            "trigger": "sweat_drops\t emoji",
+            "contents": ":sweat_drops:$0"
+        },
+        {
+            "trigger": "notes\t emoji",
+            "contents": ":notes:$0"
+        },
+        {
+            "trigger": "musical_note\t emoji",
+            "contents": ":musical_note:$0"
+        },
+        {
+            "trigger": "fire\t emoji",
+            "contents": ":fire:$0"
+        },
+        {
+            "trigger": "hankey\t emoji",
+            "contents": ":hankey:$0"
+        },
+        {
+            "trigger": "poop\t emoji",
+            "contents": ":poop:$0"
+        },
+        {
+            "trigger": "shit\t emoji",
+            "contents": ":shit:$0"
+        },
+        {
+            "trigger": "+1\t emoji",
+            "contents": ":+1:$0"
+        },
+        {
+            "trigger": "thumbsup\t emoji",
+            "contents": ":thumbsup:$0"
+        },
+        {
+            "trigger": "-1\t emoji",
+            "contents": ":-1:$0"
+        },
+        {
+            "trigger": "thumbsdown\t emoji",
+            "contents": ":thumbsdown:$0"
+        },
+        {
+            "trigger": "ok_hand\t emoji",
+            "contents": ":ok_hand:$0"
+        },
+        {
+            "trigger": "punch\t emoji",
+            "contents": ":punch:$0"
+        },
+        {
+            "trigger": "facepunch\t emoji",
+            "contents": ":facepunch:$0"
+        },
+        {
+            "trigger": "fist\t emoji",
+            "contents": ":fist:$0"
+        },
+        {
+            "trigger": "v\t emoji",
+            "contents": ":v:$0"
+        },
+        {
+            "trigger": "wave\t emoji",
+            "contents": ":wave:$0"
+        },
+        {
+            "trigger": "hand\t emoji",
+            "contents": ":hand:$0"
+        },
+        {
+            "trigger": "raised_hand\t emoji",
+            "contents": ":raised_hand:$0"
+        },
+        {
+            "trigger": "open_hands\t emoji",
+            "contents": ":open_hands:$0"
+        },
+        {
+            "trigger": "point_up\t emoji",
+            "contents": ":point_up:$0"
+        },
+        {
+            "trigger": "point_down\t emoji",
+            "contents": ":point_down:$0"
+        },
+        {
+            "trigger": "point_left\t emoji",
+            "contents": ":point_left:$0"
+        },
+        {
+            "trigger": "point_right\t emoji",
+            "contents": ":point_right:$0"
+        },
+        {
+            "trigger": "raised_hands\t emoji",
+            "contents": ":raised_hands:$0"
+        },
+        {
+            "trigger": "pray\t emoji",
+            "contents": ":pray:$0"
+        },
+        {
+            "trigger": "point_up_2\t emoji",
+            "contents": ":point_up_2:$0"
+        },
+        {
+            "trigger": "clap\t emoji",
+            "contents": ":clap:$0"
+        },
+        {
+            "trigger": "muscle\t emoji",
+            "contents": ":muscle:$0"
+        },
+        {
+            "trigger": "metal\t emoji",
+            "contents": ":metal:$0"
+        },
+        {
+            "trigger": "fu\t emoji",
+            "contents": ":fu:$0"
+        },
+        {
+            "trigger": "runner\t emoji",
+            "contents": ":runner:$0"
+        },
+        {
+            "trigger": "running\t emoji",
+            "contents": ":running:$0"
+        },
+        {
+            "trigger": "couple\t emoji",
+            "contents": ":couple:$0"
+        },
+        {
+            "trigger": "family\t emoji",
+            "contents": ":family:$0"
+        },
+        {
+            "trigger": "two_men_holding_hands\t emoji",
+            "contents": ":two_men_holding_hands:$0"
+        },
+        {
+            "trigger": "two_women_holding_hands\t emoji",
+            "contents": ":two_women_holding_hands:$0"
+        },
+        {
+            "trigger": "dancer\t emoji",
+            "contents": ":dancer:$0"
+        },
+        {
+            "trigger": "dancers\t emoji",
+            "contents": ":dancers:$0"
+        },
+        {
+            "trigger": "ok_woman\t emoji",
+            "contents": ":ok_woman:$0"
+        },
+        {
+            "trigger": "no_good\t emoji",
+            "contents": ":no_good:$0"
+        },
+        {
+            "trigger": "information_desk_person\t emoji",
+            "contents": ":information_desk_person:$0"
+        },
+        {
+            "trigger": "raising_hand\t emoji",
+            "contents": ":raising_hand:$0"
+        },
+        {
+            "trigger": "bride_with_veil\t emoji",
+            "contents": ":bride_with_veil:$0"
+        },
+        {
+            "trigger": "person_with_pouting_face\t emoji",
+            "contents": ":person_with_pouting_face:$0"
+        },
+        {
+            "trigger": "person_frowning\t emoji",
+            "contents": ":person_frowning:$0"
+        },
+        {
+            "trigger": "bow\t emoji",
+            "contents": ":bow:$0"
+        },
+        {
+            "trigger": "couplekiss\t emoji",
+            "contents": ":couplekiss:$0"
+        },
+        {
+            "trigger": "couple_with_heart\t emoji",
+            "contents": ":couple_with_heart:$0"
+        },
+        {
+            "trigger": "massage\t emoji",
+            "contents": ":massage:$0"
+        },
+        {
+            "trigger": "haircut\t emoji",
+            "contents": ":haircut:$0"
+        },
+        {
+            "trigger": "nail_care\t emoji",
+            "contents": ":nail_care:$0"
+        },
+        {
+            "trigger": "boy\t emoji",
+            "contents": ":boy:$0"
+        },
+        {
+            "trigger": "girl\t emoji",
+            "contents": ":girl:$0"
+        },
+        {
+            "trigger": "woman\t emoji",
+            "contents": ":woman:$0"
+        },
+        {
+            "trigger": "man\t emoji",
+            "contents": ":man:$0"
+        },
+        {
+            "trigger": "baby\t emoji",
+            "contents": ":baby:$0"
+        },
+        {
+            "trigger": "older_woman\t emoji",
+            "contents": ":older_woman:$0"
+        },
+        {
+            "trigger": "older_man\t emoji",
+            "contents": ":older_man:$0"
+        },
+        {
+            "trigger": "person_with_blond_hair\t emoji",
+            "contents": ":person_with_blond_hair:$0"
+        },
+        {
+            "trigger": "man_with_gua_pi_mao\t emoji",
+            "contents": ":man_with_gua_pi_mao:$0"
+        },
+        {
+            "trigger": "man_with_turban\t emoji",
+            "contents": ":man_with_turban:$0"
+        },
+        {
+            "trigger": "construction_worker\t emoji",
+            "contents": ":construction_worker:$0"
+        },
+        {
+            "trigger": "cop\t emoji",
+            "contents": ":cop:$0"
+        },
+        {
+            "trigger": "angel\t emoji",
+            "contents": ":angel:$0"
+        },
+        {
+            "trigger": "princess\t emoji",
+            "contents": ":princess:$0"
+        },
+        {
+            "trigger": "smiley_cat\t emoji",
+            "contents": ":smiley_cat:$0"
+        },
+        {
+            "trigger": "smile_cat\t emoji",
+            "contents": ":smile_cat:$0"
+        },
+        {
+            "trigger": "heart_eyes_cat\t emoji",
+            "contents": ":heart_eyes_cat:$0"
+        },
+        {
+            "trigger": "kissing_cat\t emoji",
+            "contents": ":kissing_cat:$0"
+        },
+        {
+            "trigger": "smirk_cat\t emoji",
+            "contents": ":smirk_cat:$0"
+        },
+        {
+            "trigger": "scream_cat\t emoji",
+            "contents": ":scream_cat:$0"
+        },
+        {
+            "trigger": "crying_cat_face\t emoji",
+            "contents": ":crying_cat_face:$0"
+        },
+        {
+            "trigger": "joy_cat\t emoji",
+            "contents": ":joy_cat:$0"
+        },
+        {
+            "trigger": "pouting_cat\t emoji",
+            "contents": ":pouting_cat:$0"
+        },
+        {
+            "trigger": "japanese_ogre\t emoji",
+            "contents": ":japanese_ogre:$0"
+        },
+        {
+            "trigger": "japanese_goblin\t emoji",
+            "contents": ":japanese_goblin:$0"
+        },
+        {
+            "trigger": "see_no_evil\t emoji",
+            "contents": ":see_no_evil:$0"
+        },
+        {
+            "trigger": "hear_no_evil\t emoji",
+            "contents": ":hear_no_evil:$0"
+        },
+        {
+            "trigger": "speak_no_evil\t emoji",
+            "contents": ":speak_no_evil:$0"
+        },
+        {
+            "trigger": "guardsman\t emoji",
+            "contents": ":guardsman:$0"
+        },
+        {
+            "trigger": "skull\t emoji",
+            "contents": ":skull:$0"
+        },
+        {
+            "trigger": "feet\t emoji",
+            "contents": ":feet:$0"
+        },
+        {
+            "trigger": "lips\t emoji",
+            "contents": ":lips:$0"
+        },
+        {
+            "trigger": "kiss\t emoji",
+            "contents": ":kiss:$0"
+        },
+        {
+            "trigger": "droplet\t emoji",
+            "contents": ":droplet:$0"
+        },
+        {
+            "trigger": "ear\t emoji",
+            "contents": ":ear:$0"
+        },
+        {
+            "trigger": "eyes\t emoji",
+            "contents": ":eyes:$0"
+        },
+        {
+            "trigger": "nose\t emoji",
+            "contents": ":nose:$0"
+        },
+        {
+            "trigger": "tongue\t emoji",
+            "contents": ":tongue:$0"
+        },
+        {
+            "trigger": "love_letter\t emoji",
+            "contents": ":love_letter:$0"
+        },
+        {
+            "trigger": "bust_in_silhouette\t emoji",
+            "contents": ":bust_in_silhouette:$0"
+        },
+        {
+            "trigger": "busts_in_silhouette\t emoji",
+            "contents": ":busts_in_silhouette:$0"
+        },
+        {
+            "trigger": "speech_balloon\t emoji",
+            "contents": ":speech_balloon:$0"
+        },
+        {
+            "trigger": "thought_balloon\t emoji",
+            "contents": ":thought_balloon:$0"
+        },
+        {
+            "trigger": "feelsgood\t emoji",
+            "contents": ":feelsgood:$0"
+        },
+        {
+            "trigger": "finnadie\t emoji",
+            "contents": ":finnadie:$0"
+        },
+        {
+            "trigger": "goberserk\t emoji",
+            "contents": ":goberserk:$0"
+        },
+        {
+            "trigger": "godmode\t emoji",
+            "contents": ":godmode:$0"
+        },
+        {
+            "trigger": "hurtrealbad\t emoji",
+            "contents": ":hurtrealbad:$0"
+        },
+        {
+            "trigger": "rage1\t emoji",
+            "contents": ":rage1:$0"
+        },
+        {
+            "trigger": "rage2\t emoji",
+            "contents": ":rage2:$0"
+        },
+        {
+            "trigger": "rage3\t emoji",
+            "contents": ":rage3:$0"
+        },
+        {
+            "trigger": "rage4\t emoji",
+            "contents": ":rage4:$0"
+        },
+        {
+            "trigger": "suspect\t emoji",
+            "contents": ":suspect:$0"
+        },
+        {
+            "trigger": "trollface\t emoji",
+            "contents": ":trollface:$0"
+        }
+    ]
+}

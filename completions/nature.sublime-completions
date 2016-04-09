@@ -1,0 +1,465 @@
+{
+    "scope": "text.html.markdown",
+    "completions": [
+        {
+            "trigger": "sunny\t emoji",
+            "contents": ":sunny:$0"
+        },
+        {
+            "trigger": "umbrella\t emoji",
+            "contents": ":umbrella:$0"
+        },
+        {
+            "trigger": "cloud\t emoji",
+            "contents": ":cloud:$0"
+        },
+        {
+            "trigger": "snowflake\t emoji",
+            "contents": ":snowflake:$0"
+        },
+        {
+            "trigger": "snowman\t emoji",
+            "contents": ":snowman:$0"
+        },
+        {
+            "trigger": "zap\t emoji",
+            "contents": ":zap:$0"
+        },
+        {
+            "trigger": "cyclone\t emoji",
+            "contents": ":cyclone:$0"
+        },
+        {
+            "trigger": "foggy\t emoji",
+            "contents": ":foggy:$0"
+        },
+        {
+            "trigger": "ocean\t emoji",
+            "contents": ":ocean:$0"
+        },
+        {
+            "trigger": "cat\t emoji",
+            "contents": ":cat:$0"
+        },
+        {
+            "trigger": "dog\t emoji",
+            "contents": ":dog:$0"
+        },
+        {
+            "trigger": "mouse\t emoji",
+            "contents": ":mouse:$0"
+        },
+        {
+            "trigger": "hamster\t emoji",
+            "contents": ":hamster:$0"
+        },
+        {
+            "trigger": "rabbit\t emoji",
+            "contents": ":rabbit:$0"
+        },
+        {
+            "trigger": "wolf\t emoji",
+            "contents": ":wolf:$0"
+        },
+        {
+            "trigger": "frog\t emoji",
+            "contents": ":frog:$0"
+        },
+        {
+            "trigger": "tiger\t emoji",
+            "contents": ":tiger:$0"
+        },
+        {
+            "trigger": "koala\t emoji",
+            "contents": ":koala:$0"
+        },
+        {
+            "trigger": "bear\t emoji",
+            "contents": ":bear:$0"
+        },
+        {
+            "trigger": "pig\t emoji",
+            "contents": ":pig:$0"
+        },
+        {
+            "trigger": "pig_nose\t emoji",
+            "contents": ":pig_nose:$0"
+        },
+        {
+            "trigger": "cow\t emoji",
+            "contents": ":cow:$0"
+        },
+        {
+            "trigger": "boar\t emoji",
+            "contents": ":boar:$0"
+        },
+        {
+            "trigger": "monkey_face\t emoji",
+            "contents": ":monkey_face:$0"
+        },
+        {
+            "trigger": "monkey\t emoji",
+            "contents": ":monkey:$0"
+        },
+        {
+            "trigger": "horse\t emoji",
+            "contents": ":horse:$0"
+        },
+        {
+            "trigger": "racehorse\t emoji",
+            "contents": ":racehorse:$0"
+        },
+        {
+            "trigger": "camel\t emoji",
+            "contents": ":camel:$0"
+        },
+        {
+            "trigger": "sheep\t emoji",
+            "contents": ":sheep:$0"
+        },
+        {
+            "trigger": "elephant\t emoji",
+            "contents": ":elephant:$0"
+        },
+        {
+            "trigger": "panda_face\t emoji",
+            "contents": ":panda_face:$0"
+        },
+        {
+            "trigger": "snake\t emoji",
+            "contents": ":snake:$0"
+        },
+        {
+            "trigger": "bird\t emoji",
+            "contents": ":bird:$0"
+        },
+        {
+            "trigger": "baby_chick\t emoji",
+            "contents": ":baby_chick:$0"
+        },
+        {
+            "trigger": "hatched_chick\t emoji",
+            "contents": ":hatched_chick:$0"
+        },
+        {
+            "trigger": "hatching_chick\t emoji",
+            "contents": ":hatching_chick:$0"
+        },
+        {
+            "trigger": "chicken\t emoji",
+            "contents": ":chicken:$0"
+        },
+        {
+            "trigger": "penguin\t emoji",
+            "contents": ":penguin:$0"
+        },
+        {
+            "trigger": "turtle\t emoji",
+            "contents": ":turtle:$0"
+        },
+        {
+            "trigger": "bug\t emoji",
+            "contents": ":bug:$0"
+        },
+        {
+            "trigger": "honeybee\t emoji",
+            "contents": ":honeybee:$0"
+        },
+        {
+            "trigger": "ant\t emoji",
+            "contents": ":ant:$0"
+        },
+        {
+            "trigger": "beetle\t emoji",
+            "contents": ":beetle:$0"
+        },
+        {
+            "trigger": "snail\t emoji",
+            "contents": ":snail:$0"
+        },
+        {
+            "trigger": "octopus\t emoji",
+            "contents": ":octopus:$0"
+        },
+        {
+            "trigger": "tropical_fish\t emoji",
+            "contents": ":tropical_fish:$0"
+        },
+        {
+            "trigger": "fish\t emoji",
+            "contents": ":fish:$0"
+        },
+        {
+            "trigger": "whale\t emoji",
+            "contents": ":whale:$0"
+        },
+        {
+            "trigger": "whale2\t emoji",
+            "contents": ":whale2:$0"
+        },
+        {
+            "trigger": "dolphin\t emoji",
+            "contents": ":dolphin:$0"
+        },
+        {
+            "trigger": "cow2\t emoji",
+            "contents": ":cow2:$0"
+        },
+        {
+            "trigger": "ram\t emoji",
+            "contents": ":ram:$0"
+        },
+        {
+            "trigger": "rat\t emoji",
+            "contents": ":rat:$0"
+        },
+        {
+            "trigger": "water_buffalo\t emoji",
+            "contents": ":water_buffalo:$0"
+        },
+        {
+            "trigger": "tiger2\t emoji",
+            "contents": ":tiger2:$0"
+        },
+        {
+            "trigger": "rabbit2\t emoji",
+            "contents": ":rabbit2:$0"
+        },
+        {
+            "trigger": "dragon\t emoji",
+            "contents": ":dragon:$0"
+        },
+        {
+            "trigger": "goat\t emoji",
+            "contents": ":goat:$0"
+        },
+        {
+            "trigger": "rooster\t emoji",
+            "contents": ":rooster:$0"
+        },
+        {
+            "trigger": "dog2\t emoji",
+            "contents": ":dog2:$0"
+        },
+        {
+            "trigger": "pig2\t emoji",
+            "contents": ":pig2:$0"
+        },
+        {
+            "trigger": "mouse2\t emoji",
+            "contents": ":mouse2:$0"
+        },
+        {
+            "trigger": "ox\t emoji",
+            "contents": ":ox:$0"
+        },
+        {
+            "trigger": "dragon_face\t emoji",
+            "contents": ":dragon_face:$0"
+        },
+        {
+            "trigger": "blowfish\t emoji",
+            "contents": ":blowfish:$0"
+        },
+        {
+            "trigger": "crocodile\t emoji",
+            "contents": ":crocodile:$0"
+        },
+        {
+            "trigger": "dromedary_camel\t emoji",
+            "contents": ":dromedary_camel:$0"
+        },
+        {
+            "trigger": "leopard\t emoji",
+            "contents": ":leopard:$0"
+        },
+        {
+            "trigger": "cat2\t emoji",
+            "contents": ":cat2:$0"
+        },
+        {
+            "trigger": "poodle\t emoji",
+            "contents": ":poodle:$0"
+        },
+        {
+            "trigger": "paw_prints\t emoji",
+            "contents": ":paw_prints:$0"
+        },
+        {
+            "trigger": "bouquet\t emoji",
+            "contents": ":bouquet:$0"
+        },
+        {
+            "trigger": "cherry_blossom\t emoji",
+            "contents": ":cherry_blossom:$0"
+        },
+        {
+            "trigger": "tulip\t emoji",
+            "contents": ":tulip:$0"
+        },
+        {
+            "trigger": "four_leaf_clover\t emoji",
+            "contents": ":four_leaf_clover:$0"
+        },
+        {
+            "trigger": "rose\t emoji",
+            "contents": ":rose:$0"
+        },
+        {
+            "trigger": "sunflower\t emoji",
+            "contents": ":sunflower:$0"
+        },
+        {
+            "trigger": "hibiscus\t emoji",
+            "contents": ":hibiscus:$0"
+        },
+        {
+            "trigger": "maple_leaf\t emoji",
+            "contents": ":maple_leaf:$0"
+        },
+        {
+            "trigger": "leaves\t emoji",
+            "contents": ":leaves:$0"
+        },
+        {
+            "trigger": "fallen_leaf\t emoji",
+            "contents": ":fallen_leaf:$0"
+        },
+        {
+            "trigger": "herb\t emoji",
+            "contents": ":herb:$0"
+        },
+        {
+            "trigger": "mushroom\t emoji",
+            "contents": ":mushroom:$0"
+        },
+        {
+            "trigger": "cactus\t emoji",
+            "contents": ":cactus:$0"
+        },
+        {
+            "trigger": "palm_tree\t emoji",
+            "contents": ":palm_tree:$0"
+        },
+        {
+            "trigger": "evergreen_tree\t emoji",
+            "contents": ":evergreen_tree:$0"
+        },
+        {
+            "trigger": "deciduous_tree\t emoji",
+            "contents": ":deciduous_tree:$0"
+        },
+        {
+            "trigger": "chestnut\t emoji",
+            "contents": ":chestnut:$0"
+        },
+        {
+            "trigger": "seedling\t emoji",
+            "contents": ":seedling:$0"
+        },
+        {
+            "trigger": "blossom\t emoji",
+            "contents": ":blossom:$0"
+        },
+        {
+            "trigger": "ear_of_rice\t emoji",
+            "contents": ":ear_of_rice:$0"
+        },
+        {
+            "trigger": "shell\t emoji",
+            "contents": ":shell:$0"
+        },
+        {
+            "trigger": "globe_with_meridians\t emoji",
+            "contents": ":globe_with_meridians:$0"
+        },
+        {
+            "trigger": "sun_with_face\t emoji",
+            "contents": ":sun_with_face:$0"
+        },
+        {
+            "trigger": "full_moon_with_face\t emoji",
+            "contents": ":full_moon_with_face:$0"
+        },
+        {
+            "trigger": "new_moon_with_face\t emoji",
+            "contents": ":new_moon_with_face:$0"
+        },
+        {
+            "trigger": "new_moon\t emoji",
+            "contents": ":new_moon:$0"
+        },
+        {
+            "trigger": "waxing_crescent_moon\t emoji",
+            "contents": ":waxing_crescent_moon:$0"
+        },
+        {
+            "trigger": "first_quarter_moon\t emoji",
+            "contents": ":first_quarter_moon:$0"
+        },
+        {
+            "trigger": "waxing_gibbous_moon\t emoji",
+            "contents": ":waxing_gibbous_moon:$0"
+        },
+        {
+            "trigger": "full_moon\t emoji",
+            "contents": ":full_moon:$0"
+        },
+        {
+            "trigger": "waning_gibbous_moon\t emoji",
+            "contents": ":waning_gibbous_moon:$0"
+        },
+        {
+            "trigger": "last_quarter_moon\t emoji",
+            "contents": ":last_quarter_moon:$0"
+        },
+        {
+            "trigger": "waning_crescent_moon\t emoji",
+            "contents": ":waning_crescent_moon:$0"
+        },
+        {
+            "trigger": "last_quarter_moon_with_face\t emoji",
+            "contents": ":last_quarter_moon_with_face:$0"
+        },
+        {
+            "trigger": "first_quarter_moon_with_face\t emoji",
+            "contents": ":first_quarter_moon_with_face:$0"
+        },
+        {
+            "trigger": "crescent_moon\t emoji",
+            "contents": ":crescent_moon:$0"
+        },
+        {
+            "trigger": "earth_africa\t emoji",
+            "contents": ":earth_africa:$0"
+        },
+        {
+            "trigger": "earth_americas\t emoji",
+            "contents": ":earth_americas:$0"
+        },
+        {
+            "trigger": "earth_asia\t emoji",
+            "contents": ":earth_asia:$0"
+        },
+        {
+            "trigger": "volcano\t emoji",
+            "contents": ":volcano:$0"
+        },
+        {
+            "trigger": "milky_way\t emoji",
+            "contents": ":milky_way:$0"
+        },
+        {
+            "trigger": "partly_sunny\t emoji",
+            "contents": ":partly_sunny:$0"
+        },
+        {
+            "trigger": "octocat\t emoji",
+            "contents": ":octocat:$0"
+        },
+        {
+            "trigger": "squirrel\t emoji",
+            "contents": ":squirrel:$0"
+        }
+    ]
+}
