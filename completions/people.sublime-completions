@@ -10,6 +10,10 @@
             "contents": ":smile:$0"
         },
         {
+            "trigger": "simple_smile\t emoji",
+            "contents": ":simple_smile:$0"
+        },
+        {
             "trigger": "laughing\t emoji",
             "contents": ":laughing:$0"
         },
